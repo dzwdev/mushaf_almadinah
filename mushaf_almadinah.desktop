@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=مصحف المدينة
+Categories=Education;
+Comment=Mushaf Al Madinah
+GenericName=Mushaf Al Madinah
+Keywords=mushaf;almadinah;مصحف;المدينة
+Exec=/usr/bin/mushaf_almadinah.sh
+Terminal=false
+Type=Application
+Icon=/usr/share/mushaf_almadinah/mushaf.png
